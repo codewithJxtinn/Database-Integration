@@ -1,0 +1,16 @@
+{
+  "name": "project3-db-integration",
+  "version": "1.0.0",
+  "description": "DecodeLabs Project 3: Database Integration - CRUD REST API with SQLite",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "keywords": ["crud", "sqlite", "express", "rest-api"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
